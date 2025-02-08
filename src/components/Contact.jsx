@@ -112,7 +112,7 @@ const Contact = () => {
           <h3 className="text-xl font-semibold mb-4">Connect with me:</h3>
           <div className="flex justify-center space-x-6">
             <a
-              href="https://instagram.com/yourusername"
+              href="https://www.instagram.com/harsh_singh_9685/?hl=en"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-pink-500 text-3xl"
