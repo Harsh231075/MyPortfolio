@@ -5,6 +5,13 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
+    title: "Code Review Pro",
+    description:
+      "Code Review Pro automates AI-based code reviews, suggests improvements, and offers a typing test certificate.",
+    image: "codeReview.png", // Replace with your image path
+    link: "https://code-review-pro.vercel.app/",
+  },
+  {
     title: "E-Commerce Platform",
     description:
       "A fully functional e-commerce web app with user authentication, product filtering, and user and Admin.",
