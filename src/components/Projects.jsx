@@ -4,6 +4,14 @@ import "react-multi-carousel/lib/styles.css";
 import { motion } from "framer-motion";
 
 const projects = [
+
+  {
+    title: "IntelliLearn",
+    description:
+      "An AI-powered learning platform offering personalized study plans, quizzes, performance analysis, and skill enhancement.",
+    image: "Self.png", // Replace with your image path
+    link: "https://self-learning-delta.vercel.app/",
+  },
   {
     title: "Code Review Pro",
     description:
