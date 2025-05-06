@@ -8,8 +8,8 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center px-6 py-4">
         {/* CV Link on Left Side */}
         <Link
-          to="/Resume.pdf"
-          target="Resume.pdf"
+          to="/Harsh.pdf"
+          target="Harsh.pdf"
           className="px-4 py-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-600 transition"
         >
           Download CV

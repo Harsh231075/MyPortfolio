@@ -4,9 +4,15 @@ import "react-multi-carousel/lib/styles.css";
 import { motion } from "framer-motion";
 
 const projects = [
-
   {
-    title: "IntelliLearn",
+    title: "NextGen Learn",
+    description:
+      "NextGen Learn – AI-Powered Learning Platform .",
+    image: "Self.png", // Replace with your image path
+    link: "https://self-learning-delta.vercel.app/",
+  },
+  {
+    title: "Self Learning",
     description:
       "An AI-powered learning platform offering personalized study plans, quizzes, performance analysis, and skill enhancement.",
     image: "Self.png", // Replace with your image path
@@ -27,6 +33,13 @@ const projects = [
     link: "https://shoping-git-main-harsh-singhs-projects-a7a5f95c.vercel.app/",
   },
   {
+    title: "Collage Website",
+    description:
+      "Built a college website to showcase departments, courses, placements, facilities, admissions, etc.",
+    image: "collage.png", // Replace with your image path
+    link: "https://college-hazel.vercel.app/",
+  },
+  {
     title: "BookStore",
     description:
       "Created  using  MERN stack Bookstore app with authentication, publishing, dark mode, and Tailwind.",
@@ -40,13 +53,7 @@ const projects = [
     image: "shoes.png", // Replace with your image path
     link: "https://harsh231075.github.io/shoes_project/",
   },
-  {
-    title: "Collage Website",
-    description:
-      "Built a college website to showcase departments, courses, placements, facilities, admissions, etc.",
-    image: "collage.png", // Replace with your image path
-    link: "https://college-hazel.vercel.app/",
-  },
+
 ];
 
 const responsive = {
