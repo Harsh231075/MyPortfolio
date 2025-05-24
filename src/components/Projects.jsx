@@ -9,7 +9,7 @@ const projects = [
     description:
       "NextGen Learn – AI-Powered Learning Platform .",
     image: "NextGen.png", // Replace with your image path
-    link: "https://self-learning-delta.vercel.app/",
+    link: "https://next-gen-learn-eta.vercel.app/",
   },
   {
     title: "Self Learning",
