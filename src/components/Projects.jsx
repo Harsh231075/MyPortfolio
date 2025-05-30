@@ -16,7 +16,7 @@ const projects = [
     description:
       "An AI-powered learning platform offering personalized study plans, quizzes, performance analysis, and skill enhancement.",
     image: "Self.png", // Replace with your image path
-    link: "https://self-learning-delta.vercel.app/",
+    link: "https://self-learning-4xv7.vercel.app/",
   },
   {
     title: "Code Review Pro",
